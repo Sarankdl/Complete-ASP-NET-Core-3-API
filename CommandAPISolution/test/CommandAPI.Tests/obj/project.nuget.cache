@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+B5Fo+msMLIJAt+JR8wDXIRNXQa/y2PPblil/Ap+mODiQJ8qbnPWjAwjBZtAwKCM6w39EdE+8tMwcalcT1cLBg==",
+  "dgSpecHash": "a5BO+AcguZWzqBAtA0+NAfPlyApOWSZ4jPqJG8XV88oM/sKNw6w3u3zWDR8++0ps0aoiTvfqX+EX6kjuAtqWjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arakh\\Desktop\\Sara's Project\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
+  "projectFilePath": "C:\\Users\\arakh\\Desktop\\ASP.Core\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arakh\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\arakh\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

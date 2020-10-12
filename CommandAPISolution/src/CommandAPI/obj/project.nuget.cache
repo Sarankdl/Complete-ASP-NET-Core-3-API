@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "exgj4DzAUhGrnSZxKYczS2xY5lJRhTTHNriP76s2+hlQG+me+b3U9OLX6cHcAZ6a1HJwYAK3U+RXOIn/drwbDA==",
+  "dgSpecHash": "4HEMrPYKLPF9MbXS8istayb+mWZh3l8Ey4/XpBagFxuaW/YmzEt52tMlFt7MjPxsUTOKrPPKxEuCW4KR760umw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arakh\\Desktop\\Sara's Project\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+  "projectFilePath": "C:\\Users\\arakh\\Desktop\\ASP.Core\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
