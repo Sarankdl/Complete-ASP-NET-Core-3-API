@@ -4,6 +4,7 @@ using CommandAPI.Data;
 using CommandAPI.Models;
 using CommandAPI.Dtos;
 using AutoMapper;
+using Microsoft.AspNetCore.JsonPatch;
 
 namespace CommandAPI.Controllers
 {
