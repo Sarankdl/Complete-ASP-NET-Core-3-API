@@ -227,3 +227,5 @@ C:\Users\arakh\Desktop\ASP.Core\CommandAPISolution\test\CommandAPI.Tests\bin\Deb
 C:\Users\arakh\Desktop\ASP.Core\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\arakh\Desktop\ASP.Core\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\arakh\Desktop\ASP.Core\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arakh\Desktop\ASP.Core\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\arakh\Desktop\ASP.Core\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\netcoreapp3.1\Moq.dll
